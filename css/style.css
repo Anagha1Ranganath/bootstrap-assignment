@@ -150,6 +150,10 @@ a
   background-color:darkcyan;
 }
 
+iframe{
+  width:100%;
+}
+
 /*Set footer properties*/
 footer
 {
